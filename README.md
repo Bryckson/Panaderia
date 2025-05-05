@@ -42,7 +42,7 @@ El objetivo fue aplicar los conocimientos adquiridos para resolver una necesidad
 ![Pedidos](Panaderia/screenshots/Pedido.jpg)
 
 ### 👥 Gestión de clientes
-![Clientes](screenshots/Cliente.jpg)
+![Clientes](Panaderia/screenshots/Cliente.jpg)
 
 ### 🍞 Gestión de productos
 ![Productos](Panaderia/screenshots/Producto.jpg)
