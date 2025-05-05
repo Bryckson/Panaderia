@@ -33,9 +33,20 @@ El objetivo fue aplicar los conocimientos adquiridos para resolver una necesidad
 
 ---
 
-## 🖼️ Captura de pantalla
+## 🖼️ Capturas de Pantalla
 
-![captura](img/pan.jpg)
+### 🏠 Pantalla de inicio
+![Inicio](screenshots/Inicio.jpg)
+
+### 📋 Gestión de pedidos
+![Pedidos](screenshots/Pedido.jpg)
+
+### 👥 Gestión de clientes
+![Clientes](screenshots/Cliente.jpg)
+
+### 🍞 Gestión de productos
+![Productos](screenshots/Producto.jpg)
+
 
 ---
 
