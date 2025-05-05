@@ -36,16 +36,16 @@ El objetivo fue aplicar los conocimientos adquiridos para resolver una necesidad
 ## 🖼️ Capturas de Pantalla
 
 ### 🏠 Pantalla de inicio
-![Inicio](screenshots/Inicio.jpg)
+![Inicio](Panaderia/screenshots/Inicio.jpg)
 
 ### 📋 Gestión de pedidos
-![Pedidos](screenshots/Pedido.jpg)
+![Pedidos](Panaderia/screenshots/Pedido.jpg)
 
 ### 👥 Gestión de clientes
 ![Clientes](screenshots/Cliente.jpg)
 
 ### 🍞 Gestión de productos
-![Productos](screenshots/Producto.jpg)
+![Productos](Panaderia/screenshots/Producto.jpg)
 
 
 ---
